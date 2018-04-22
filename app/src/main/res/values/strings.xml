@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UniversityChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_tv">First Name:</string>
+    <string name="last_name_tv">Last Name:</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_tv">Email:</string>
+    <string name="email">Email</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="message_list">Message List</string>
+    <string name="message_content">Message Content</string>
+    <string name="date">Date</string>
+    <string name="delte">delete</string>
+</resources>
