@@ -34,7 +34,7 @@ public class SignInTask implements Runnable {
         Socket socket = null;
 
         try {
-            Inet4Address address = (Inet4Address)Inet4Address.getByName("192.168.0.7");
+            Inet4Address address = (Inet4Address)Inet4Address.getByName("address");
             socket = new Socket(address, 1248);
 
             Log.d(TAG, "Connected to server!!");

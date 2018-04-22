@@ -37,7 +37,7 @@ public class FetchStudentTask implements Runnable {
 
         try {
 
-            Inet4Address address = (Inet4Address)Inet4Address.getByName("192.168.0.7");
+            Inet4Address address = (Inet4Address)Inet4Address.getByName("address");
             socket = new Socket(address, 1248);
 
             PrintWriter output = new PrintWriter(socket.getOutputStream());
